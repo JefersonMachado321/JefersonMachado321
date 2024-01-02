@@ -1,7 +1,6 @@
 ### Hi there, I'm Jeferson Machado 👋
 
-#### About
- I'M a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
+
  
 #### Current stack
 
@@ -11,7 +10,6 @@
  - 🎨 Layout Design:`Figma`
  - 📦️ Version code control: `Git` & `Github`
  - 🔨 Tools: `VsCode`
- - 🌍 I'm mostly active within the `Rocketseat Community`
  
  #### Contacts
  
